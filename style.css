@@ -1,0 +1,127 @@
+.background{background-color: darkgrey ;}
+
+.container{ margin-top: 20px;
+    min-height: 84vh;
+}
+
+.navbar-brand {color: whitesmoke;}
+
+.Myimage{ 
+    padding-right: 20px;
+width: 200px;
+height: auto;
+float: left;
+}
+
+.line{
+    border: 5px solid rgb(58, 57, 57);
+  
+}
+.font1{
+    color: whitesmoke;
+    
+}
+
+
+.myfooter { 
+
+
+    height: 30px;
+    width: 100%;
+    border-top:2px solid darkgrey;
+color: whitesmoke;
+    text-align: center;
+min-height: 8vh;
+
+}
+
+nav{
+   min-height: 8vh;
+
+}
+
+.project1{
+    height: 200px;
+    background-color: tomato;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.project2{
+    height: 200px;
+    background-color: violet;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.project3{
+    height: 200px;
+    background-color: yellow;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.project4{
+    height: 200px;
+    background-color: teal;
+    margin-bottom: 20px;
+    
+}
+.p1t{
+    text-align: center;
+    
+        position: relative;
+       top: 70%;
+      
+       background-color: white;
+height: 20%;
+
+}
+
+.p2t{
+    text-align: center;
+ 
+    position: relative;
+    top: 70%;
+background-color: white;
+
+height: 20%;
+}
+
+.p3t{
+    text-align: center;
+
+    position: relative;
+    top: 70%;
+    background-color: white;
+
+    height: 20%;
+
+}
+
+
+
+.p4t{
+    text-align: center;
+
+    position: relative;
+    top: 70%;
+    background-color: white;
+
+    height: 20%;
+
+}
+
+.mainRow{
+    margin-top: 20px;
+}
+.About{ text-underline-position: solid darkgrey ;}
+
+
+.contact{ text-underline-position: solid darkgrey ;}
+
+
+#button {
+ Margin-bottom: 20Px;
+
+
+}
