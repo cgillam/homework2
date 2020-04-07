@@ -13,8 +13,17 @@ height: auto;
 float: left;
 }
 
+.OriginalImage{
+width:auto;
+Height:100%;
+width: 100%;
+
+
+}
+
+
 .line{
-    border: 5px solid rgb(58, 57, 57);
+    border: 5px solid rgb(56, 54, 54)
   
 }
 .font1{
@@ -91,23 +100,23 @@ height: 20%;
     text-align: center;
 
     position: relative;
-    top: 70%;
-    background-color: white;
+    bottom: 20%;
+    background-color: rgb(56, 54, 54);
 
-    height: 20%;
+    height: 15%;
 
 }
 
 
 
-.p4t{
+.p4t{    
     text-align: center;
 
     position: relative;
-    top: 70%;
-    background-color: white;
+    bottom: 20%;
+    background-color: rgb(56, 54, 54);
 
-    height: 20%;
+    height: 15%;
 
 }
 
